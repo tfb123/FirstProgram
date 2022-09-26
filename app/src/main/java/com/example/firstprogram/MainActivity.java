@@ -24,4 +24,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tvMain = (TextView)findViewById(R.id.tvMain);
         tvMain.setTextColor(Color.rgb(200,0,0));
     }
+
+    //SOME VERY IMPORTANT CHANGES(NO)
+
 }
